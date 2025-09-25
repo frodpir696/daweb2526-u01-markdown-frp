@@ -22,7 +22,7 @@
 2. Elemento 2 de la lista ordenada
    1. Elemento anidado de la lista
 
-[Texto del enlace](https://iesalixar.org)
+[IES Alixar](https://iesalixar.org)
 ![Texto alternativo](https://placehold.co/400)
 
 ![Typlosion](images/typlosion.png)
@@ -44,3 +44,6 @@ public class Hola {
 |:-------|----:|:----------|
 | Ana    |  25 | Granada   |
 | Juan   |  30 | Jaén      |
+
+
+[Enlace a changelog](CHANGELOG.md)
